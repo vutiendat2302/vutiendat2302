@@ -9,7 +9,7 @@ Hello, I'm Vu Tien Dat!
 <h2 align="left">🤖 About me: </h2>
 
 <p align="center">
-  <img align="right" width="190" src="image/vutiendat_image.jpg" />
+  <img align="right" width="220" src="image/vutiendat_image.jpg" />
 </p>
 
 <pre>
@@ -22,6 +22,8 @@ Hello, I'm Vu Tien Dat!
 🛠️ My main programming languages are Java and Python.
   
 😃 I’m open to collaborating on meaningful projects that create positive impact.
+
+🔭 Check out my blog at ...
 </pre>
 <hr>
 
@@ -97,7 +99,7 @@ Hello, I'm Vu Tien Dat!
 
 <h2 align="left">💯 Certificates: </h2>
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img align="right" width="400" src="image/Cat Pounce GIF.gif" />
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Cert](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
