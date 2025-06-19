@@ -99,5 +99,5 @@ Hello, I'm Vu Tien Dat!
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![HUS](https://github.com/vutiendat2302) Cert](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Cert](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
