@@ -9,7 +9,7 @@ Hello, I'm Vu Tien Dat!
 <h2 align="left">🤖 About me: </h2>
 
 <p align="center">
-  <img align="right" width="220" src="image/vutiendat_image.jpg" />
+  <img align="right" width="220" src="image/ae02a5d91369ab6f120d17eb9bb849af.jpg" />
 </p>
 
 <pre>
