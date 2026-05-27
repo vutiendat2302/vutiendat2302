@@ -128,14 +128,14 @@ Hello, I'm Vu Tien Dat!
   <tr width = "100%">
     <td width = "50%" align="center">
       <img 
-        src="https://github-readme-stats-one-phi-89.vercel.app/api/top-langs/?username=vutiendat2302&layout=compact&langs_count=10&hide=css&theme=transparent" 
+        src="https://github-readme-stats-one-phi-89.vercel.app/api/top-langs/?username=vutiendat2302&layout=compact&langs_count=10&hide=jupyter%20notebook,c,tex,makefile&theme=transparent" 
         alt="Top Languages" 
         width="100%"
       />
     </td>
     <td width = "50%" align="center">
       <img 
-        src="https://github-readme-stats-one-phi-89.vercel.app/api?username=vutiendat2302&show_icons=true&theme=transparent" 
+        src="https://github-readme-stats-one-phi-89.vercel.app/api?username=vutiendat2302&show_icons=true&theme=transparent&hide=stars" 
         alt="GitHub Stats" 
         width="100%"
       />
