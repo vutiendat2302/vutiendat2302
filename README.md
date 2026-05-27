@@ -58,6 +58,8 @@ Hello, I'm Vu Tien Dat!
 </p>
 
 <div style="margin-top: 20px;"></div> 
+
+
 <h2 align="left">🔧 Technologies & Tools:</h2>
 <!-- <table align = "center" width = "100%">
   <tr>
@@ -106,6 +108,16 @@ Hello, I'm Vu Tien Dat!
   <img src="https://skillicons.dev/icons?i=mysql,git,python,java,spring,js,ts,nodejs,react,tailwind,html,docker" />
 </p>
 
+<h2 align="left">📈 My Activities: </h2>
+
+<div  align = "center" width = "100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <h2 align="left">📊 GitHub Overview:</h2>
 
 <table align = "center">
@@ -127,16 +139,6 @@ Hello, I'm Vu Tien Dat!
   </tr>
 </table>
 <br clear="both">
-<h2 align="left">📈 My Activities: </h2>
-
-<div  align = "center" width = "100%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 
 <h2 align="left">️🎯 Certificates: </h2>
 
