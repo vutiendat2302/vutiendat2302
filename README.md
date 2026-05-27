@@ -72,7 +72,7 @@ Hello, I'm Vu Tien Dat!
     <td align="center">
       <img src="image/python.svg" alt="Python" height="35"/>
     </td>
-    <td align="center"">
+    <td align="center">
       <img src="image/java.svg" alt="Java" height="35"/>
     </td>
     <td align="center">
