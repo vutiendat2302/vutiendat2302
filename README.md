@@ -59,7 +59,7 @@ Hello, I'm Vu Tien Dat!
 
 <div style="margin-top: 20px;"></div> 
 <h2 align="left">🔧 Technologies & Tools:</h2>
-<table align = "center" width = "100%">
+<!-- <table align = "center" width = "100%">
   <tr>
     <td align="center" >
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
@@ -100,7 +100,12 @@ Hello, I'm Vu Tien Dat!
       <img src="image/docker.svg" alt="Docker" height="40"/>
     </td>
   </tr>
-</table>
+</table> -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,python,java,spring,js,ts,nodejs,react,tailwind,html,docker" />
+</p>
+
 <h2 align="left">📊 GitHub Overview:</h2>
 
 <table align = "center">
