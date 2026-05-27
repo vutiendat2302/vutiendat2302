@@ -5,101 +5,199 @@ Hello, I'm Vu Tien Dat!
 	</a>
 </h1>
 
-<hr>
 <h2 align="left">🤖 About me: </h2>
 
-<p align="center">
-  <img align="right" width="220" src="image/ae02a5d91369ab6f120d17eb9bb849af.jpg" />
-</p>
-
-<pre>
-💻 I’m a Data Engineer with a strong foundation in mathematics and computer science.
-  
-📚 I’m currently studying Applied Mathematics and Computer science at the University of Science – VNU.
-  
-🌱 I’m always eager to learn and explore new knowledge, especially in data systems and backend technologies.
-  
-🛠️ My main programming languages are Java and Python.
-  
-😃 I’m open to collaborating on meaningful projects that create positive impact.
-
-🔭 Check out my blog at ...
-</pre>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <p>
+      💻 I’m a Data Engineer with a strong foundation in mathematics and computer science.
+      </p>
+      <p>
+        📚 I’m currently studying Applied Mathematics and Computer science at the University of Science – VNU.
+      </p>
+      <p>
+        🌱 I’m always eager to learn and explore new knowledge, especially in data systems and backend technologies.
+      </p>
+      <p>
+        🛠️ My main programming languages are Java and Python.
+      </p>
+      <p>
+        😃 I’m open to collaborating on meaningful projects that create positive impact.
+      </p>
+      <p>
+        🔭 Check out my blog at ...
+      </p>
+    </td>
+    <td width="30%" align="center" valign="top">
+      <img width="240" src="image/chickend.jpg" />
+    </td>
+  </tr>
+</table>
+<br clear="both">
 <hr>
 
 <h2 align="left">📫 Connect with me:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tien-dat-vu-8b492b35b" target="_blank">
+  <a href="https://www.linkedin.com/in/dat-vu-tien-8b492b35b/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="55" width="55"/>
   </a>
-	
+	&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/vutiendat2302" target="_blank" alt="Facebook">
     <img align="center" src="image/facebook.svg" alt="vutiendat" height="41" width="45"/> 
   </a>
-	
+	&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vutiendat2302" target="_blank" alt="Github">
     <img align="center" src="image/github.svg" height="43" width="45"/>
   </a> 
-	    
+	&nbsp;&nbsp;&nbsp;
   <a href="mailto:vutiendat23022005@gmail.com" target="_blank" alt="Email">
     <img align="center" src="image/gmail.svg" height="45" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
+<hr>
 
 <div style="margin-top: 20px;"></div> 
-
-<h2> </h2> 
-
-<table style="width:100%;">
+<h2 align="left">🔧 Technologies & Tools:</h2>
+<table align = "center" width = "100%">
   <tr>
-    <td>
-	<h2 align="left">🔧 Technologies & Tools:</h2>
-	<p align="left">
-  		<img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="40" width="40" style="margin-right: 30px;" />
-  		<img align="center" src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" width="40" style="margin-right: 30px;" />
-  		<img align="center" src="https://img.icons8.com/fluent/48/000000/matlab.png" height="40" width="40" style="margin-right: 30px;" />
-  		<img align="center" src="https://img.icons8.com/color/48/000000/git.png" height="40" width="40" style="margin-right: 30px;" />
-  <img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" width="40" style="margin-right: 30px;" />
-  <a href="https://www.python.org/" target="_blank"><img align="center" src="image/python.svg" alt="python" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://www.java.com/en/" target="_blank"><img align="center" src="image/java.svg" alt="java" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img align="center" src="image/spring.svg" alt="spring" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="image/javascript.svg" alt="javascript" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="image/typescript.svg" alt="typescript" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" src="image/nodejs.svg" alt="nodejs" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://react.dev/" target="_blank"><img align="center" src="image/reactjs.svg" alt="reactjs" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="center" src="image/tailwind.svg" alt="tailwind" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="image/html.svg" alt="html" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" src="image/git.svg" alt="git" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img align="center" src="image/docker.svg" alt="docker" height="30" width="40" style="margin-right: 30px;" /></a>
-  <a href="https://godotengine.org/" target="_blank"><img align="center" src="image/godot.svg" alt="godot" height="30" width="40" /></a>
-</p>
-	</p>
-	<h2 align="left">✨ My Languages: </h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutiendat2302&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="vutiendat2302" width="100%"/>
-	<h2 align="left" >⌛ Skills:  </h2>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=vutiendat2302&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" />
+    <td align="center" >
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
     </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p> 
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+    </td>
+    <td align="center">
+      <img src="image/python.svg" alt="Python" height="35"/>
+    </td>
+    <td align="center"">
+      <img src="image/java.svg" alt="Java" height="35"/>
+    </td>
+    <td align="center">
+      <img src="image/spring.svg" alt="Spring Boot" height="35"/>
+    </td>
+    <td align="center" >
+      <img src="image/javascript.svg" alt="JavaScript" height="35"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" >
+      <img src="image/typescript.svg" alt="TypeScript" height="35"/>
+    </td>
+    <td align="center" >
+      <img src="image/nodejs.svg" alt="Node.js" height="35"/>
+    </td>
+    <td align="center" >
+      <img src="image/reactjs.svg" alt="React" height="35"/>
+    </td>
+    <td align="center" >
+      <img src="image/tailwind.svg" alt="Tailwind CSS" height="35"/>
+    </td>
+    <td align="center" >
+      <img src="image/html.svg" alt="HTML" height="35"/>
+    </td>
+    <td align="center">
+      <img src="image/docker.svg" alt="Docker" height="40"/>
     </td>
   </tr>
 </table>
+<hr>
+<h2 align="left">📊 GitHub Overview:</h2>
+
+<table align = "center">
+  <tr width = "100%">
+    <td width = "50%" align="center">
+      <img 
+        src="https://github-readme-stats-one-phi-89.vercel.app/api/top-langs/?username=vutiendat2302&layout=compact&langs_count=10&hide=css&theme=transparent" 
+        alt="Top Languages" 
+        width="100%"
+      />
+    </td>
+    <td width = "50%" align="center">
+      <img 
+        src="https://github-readme-stats-one-phi-89.vercel.app/api?username=vutiendat2302&show_icons=true&theme=transparent" 
+        alt="GitHub Stats" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+<br clear="both">
+<hr>
 
 <h2 align="left">📈 My Activities: </h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
-</picture>
+<div  align = "center" width = "100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vutiendat2302/vutiendat2302/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<h2 align="left">💯 Certificates: </h2>
+<hr>
 
-<img align="right" width="400" src="image/Cat Pounce GIF.gif" />
+<h2 align="left">️🎯 Certificates: </h2>
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Cert](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg)
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="60%" valign="top">
+      <a href="cert/z5998262337878_80e6d2e8bc254bb95b5ab1b01c3bd491.jpg">
+        <img src="https://img.shields.io/badge/Certificate_of_Achievement-Excellent_Academic_Performance-green?style=flat-square" alt="Certificate of Achievement"/>
+      </a>
+      <br>
+      <a href="cert/Coursera_data_sciences.pdf">
+        <img src="https://img.shields.io/badge/Coursera-Foundations_of_Data_Science-green?style=flat-square" alt="Coursera"/>
+      </a>
+      <br>
+      <a href="cert/samsungcampus.jpg">
+        <img src="https://img.shields.io/badge/Certificate-Big_Data_Course_SIC-orange?style=flat-square" alt="Big Data Course"/>
+      </a>
+      <br>
+      <a href="cert/sv5tot.jpg">
+        <img src="https://img.shields.io/badge/Award-Student_of_5_Merits_City_Level-blue?style=flat-square" alt="Student of 5 Merits City Level"/>
+      </a>
+      <br>
+      <a href="cert/sv5t_t.PNG">
+        <img src="https://img.shields.io/badge/Award-Student_of_5_Merits_VNU_Level-blue?style=flat-square" alt="Student of 5 Merits VNU Level"/>
+      </a>
+      <br>
+      <a href="cert/doquan.PNG">
+        <img src="https://img.shields.io/badge/Scholarship-Do_Quan_Scholarship-blue?style=flat-square" alt="Do Quan Scholarship"/>
+      </a>
+      <br>
+      <a href="cert/hbviasm.PNG">
+        <img src="https://img.shields.io/badge/Scholarship-VIASM_Math_Scholarship-brightgreen?style=flat-square" alt="VIASM Math Scholarship"/>
+      </a>
+      <br>
+      <a href="cert/pttntoan.PNG">
+        <img src="https://img.shields.io/badge/Scholarship-Math_Talent_Development-blue?style=flat-square" alt="Math Talent Development"/>
+      </a>
+      <br>
+      <a href="cert/yamada.PNG">
+        <img src="https://img.shields.io/badge/Scholarship-Yamada_Scholarship_Japan-orange?style=flat-square" alt="Yamada Scholarship"/>
+      </a>
+      <br>
+      <a href="cert/dataflow.jpg">
+        <img src="https://img.shields.io/badge/Certificate-DataFlow_2025_Organizing_Committee-blue?style=flat-square" alt="DataFlow 2025"/>
+      </a>
+      <br>
+      <a href="cert/hienmau.jpg">
+        <img src="https://img.shields.io/badge/Certificate-Voluntary_Blood_Donation-red?style=flat-square" alt="Voluntary Blood Donation"/>
+      </a>
+      <br>
+      <a href="cert/truonghe.jpg">
+        <img src="https://img.shields.io/badge/Certificate-VIASM_Math_Summer_School_2025-brightgreen?style=flat-square" alt="VIASM Summer School"/>
+      </a>
+      <br>
+      <a href="cert/taxilang.jpg">
+        <img src="https://img.shields.io/badge/Certificate-Green_Summer_Volunteer_2024-green?style=flat-square" alt="Green Summer Volunteer"/>
+      </a>
+    </td>
+    <td align="center" width="40%" valign="top">
+      <img width="100%" src="image/Cat%20Pounce%20GIF.gif" alt="Cat GIF"/>
+    </td>
+  </tr>
+</table>
