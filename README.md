@@ -35,7 +35,6 @@ Hello, I'm Vu Tien Dat!
   </tr>
 </table>
 <br clear="both">
-<hr>
 
 <h2 align="left">📫 Connect with me:</h2>
 
@@ -57,7 +56,6 @@ Hello, I'm Vu Tien Dat!
   </a>
   &nbsp;&nbsp;&nbsp;
 </p>
-<hr>
 
 <div style="margin-top: 20px;"></div> 
 <h2 align="left">🔧 Technologies & Tools:</h2>
@@ -103,7 +101,6 @@ Hello, I'm Vu Tien Dat!
     </td>
   </tr>
 </table>
-<hr>
 <h2 align="left">📊 GitHub Overview:</h2>
 
 <table align = "center">
@@ -125,8 +122,6 @@ Hello, I'm Vu Tien Dat!
   </tr>
 </table>
 <br clear="both">
-<hr>
-
 <h2 align="left">📈 My Activities: </h2>
 
 <div  align = "center" width = "100%">
@@ -137,7 +132,6 @@ Hello, I'm Vu Tien Dat!
   </picture>
 </div>
 
-<hr>
 
 <h2 align="left">️🎯 Certificates: </h2>
 
