@@ -29,6 +29,9 @@ Hello, I'm Vu Tien Dat!
 			<li>Machine Learning</li>
 		  </ul>
       </p>
+	  <p>
+        🔭 Check out my blog at ...
+      </p>
     </td>
     <td width="30%" align="center" valign="top">
       <img width="240" src="image/chickend.jpg" alt="Profile illustration" />
