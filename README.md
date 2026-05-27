@@ -11,26 +11,27 @@ Hello, I'm Vu Tien Dat!
   <tr>
     <td width="70%" valign="top">
       <p>
-      💻 I’m a Data Engineer with a strong foundation in mathematics and computer science.
+        🎓 Student at the University of Science, Vietnam National University, Hanoi (VNU-HUS).
       </p>
       <p>
-        📚 I’m currently studying Applied Mathematics and Computer science at the University of Science – VNU.
+        📚 Department of Mathematics, Mechanics and Informatics.
       </p>
       <p>
-        🌱 I’m always eager to learn and explore new knowledge, especially in data systems and backend technologies.
+        💡 Major: Mathematics and Computer Science.
       </p>
       <p>
-        🛠️ My main programming languages are Java and Python.
-      </p>
-      <p>
-        😃 I’m open to collaborating on meaningful projects that create positive impact.
-      </p>
-      <p>
-        🔭 Check out my blog at ...
+        🧠 Interested in:
+		  <ul>
+			<li>Competitive Programming</li>
+			<li>Algorithms & Data Structures</li>
+			<li>Data Engineering</li>
+			<li>Backend
+			<li>Machine Learning</li>
+		  </ul>
       </p>
     </td>
     <td width="30%" align="center" valign="top">
-      <img width="240" src="image/chickend.jpg" />
+      <img width="240" src="image/chickend.jpg" alt="Profile illustration" />
     </td>
   </tr>
 </table>
