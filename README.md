@@ -200,6 +200,10 @@ Hello, I'm Vu Tien Dat!
       <a href="cert/taxilang.jpg">
         <img src="https://img.shields.io/badge/Certificate-Green_Summer_Volunteer_2024-green?style=flat-square" alt="Green Summer Volunteer"/>
       </a>
+      <br>
+      <a href="cert/7_Certificate_SPMM2026.pdf">
+        <img src="https://img.shields.io/badge/Certificate-Summer_Program_on_Mathematical_Modeling_2026-brightgreen?style=flat-square" alt="SPMM 2026">
+      </a>
     </td>
     <td align="center" width="40%" valign="top">
       <img width="100%" src="image/Cat%20Pounce%20GIF.gif" alt="Cat GIF"/>
