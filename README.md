@@ -157,6 +157,9 @@ Hello, I'm Vu Tien Dat!
         <img src="https://img.shields.io/badge/Coursera-Foundations_of_Data_Science-green?style=flat-square" alt="Coursera"/>
       </a>
       <br>
+      <a href="cert/translate_data_into_insight.pdf">
+        <img src="https://img.shields.io/badge/Coursera-Translate_Data_into_Insights-green?style=flat-square">
+      <br>
       <a href="cert/samsungcampus.jpg">
         <img src="https://img.shields.io/badge/Certificate-Big_Data_Course_SIC-orange?style=flat-square" alt="Big Data Course"/>
       </a>
