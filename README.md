@@ -30,7 +30,7 @@ Hello, I'm Vu Tien Dat!
 		  </ul>
       </p>
 	  <p>
-        🔭 Check out my blog at ...
+        🔭 Check out my blog at <a href="https://vtdat.com" target="_blank" rel="noopener noreferrer">vtdat.com</a>
       </p>
     </td>
     <td width="30%" align="center" valign="top">
